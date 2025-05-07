@@ -24,7 +24,7 @@ const Register: React.FC = () => {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col justify-center py-12 px-4 sm:px-6">
       <div className="sm:mx-auto sm:w-full sm:max-w-md mb-8">
-        <h1 className="text-center text-4xl font-bold text-gray-900">Penned</h1>
+        <h1 className="text-center text-4xl font-bold text-gray-900">Scribo</h1>
         <p className="mt-3 text-center text-gray-600 text-lg">
           Join our community of storytellers
         </p>
