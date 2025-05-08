@@ -45,7 +45,7 @@ const Footer: React.FC = () => {
             </Link>
           </div>
           <p className="mt-8 text-sm text-gray-500 md:mt-0 md:order-1">
-            Crafted with ❤️ for creative writers.
+            Crafted for creative writers.
           </p>
         </div>
       </div>
